@@ -1,0 +1,13 @@
+
+body {
+    background-image: url(assets/flower-g64fd9a186_640.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-size: large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 
+    'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: 700;
+}
+h1 {
+    text-align: center;
+}
